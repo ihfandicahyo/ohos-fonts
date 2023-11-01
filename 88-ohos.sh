@@ -12,30 +12,10 @@
 list_files() {
 cat <<EOF
 etc/fonts.xml
-fonts/HarmonyOS_Sans_Black.ttf
-fonts/HarmonyOS_Sans_Black_Italic.ttf
-fonts/HarmonyOS_Sans_Bold.ttf
-fonts/HarmonyOS_Sans_Bold_Italic.ttf
-fonts/HarmonyOS_Sans_Condensed_Black.ttf
-fonts/HarmonyOS_Sans_Condensed_Black_Italic.ttf
-fonts/HarmonyOS_Sans_Condensed_Bold.ttf
-fonts/HarmonyOS_Sans_Condensed_Bold_Italic.ttf
-fonts/HarmonyOS_Sans_Condensed_Light.ttf
-fonts/HarmonyOS_Sans_Condensed_Light_Italic.ttf
-fonts/HarmonyOS_Sans_Condensed_Medium.ttf
-fonts/HarmonyOS_Sans_Condensed_Medium_Italic.ttf
-fonts/HarmonyOS_Sans_Condensed_Regular.ttf
-fonts/HarmonyOS_Sans_Condensed_Regular_Italic.ttf
-fonts/HarmonyOS_Sans_Condensed_Thin.ttf
-fonts/HarmonyOS_Sans_Condensed_Thin_Italic.ttf
-fonts/HarmonyOS_Sans_Light.ttf
-fonts/HarmonyOS_Sans_Light_Italic.ttf
-fonts/HarmonyOS_Sans_Medium.ttf
-fonts/HarmonyOS_Sans_Medium_Italic.ttf
-fonts/HarmonyOS_Sans_Regular.ttf
-fonts/HarmonyOS_Sans_Regular_Italic.ttf
-fonts/HarmonyOS_Sans_Thin.ttf
-fonts/HarmonyOS_Sans_Thin_Italic.ttf
+fonts/HarmonyOS_Sans_Condensed_Italic.ttf
+fonts/HarmonyOS_Sans_Condensed.ttf
+fonts/HarmonyOS_Sans_Italic.ttf
+fonts/HarmonyOS_Sans.ttf
 fonts/RobotoFallback-VF.ttf
 EOF
 }
