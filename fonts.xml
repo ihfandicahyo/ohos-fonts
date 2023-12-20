@@ -78,7 +78,7 @@
         <font weight="900" style="italic">HarmonyOS_Sans_Italic.ttf
             <axis tag="wght" stylevalue="844" />
         </font>
-    </family>
+   </family>
 
 
     <!-- Note that aliases must come after the fonts they reference. -->
@@ -92,7 +92,7 @@
     <alias name="verdana" to="sans-serif" />
 
     <family name="sans-serif-condensed">
-        <font weight="100" style="normal">HarmonyOS_Sans_Condensed.ttf
+      <font weight="100" style="normal">HarmonyOS_Sans_Condensed.ttf
             <axis tag="wght" stylevalue="100" />
         </font>
         <font weight="100" style="italic">HarmonyOS_Sans_Condensed_Italic.ttf
