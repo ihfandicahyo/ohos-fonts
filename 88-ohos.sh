@@ -16,7 +16,6 @@ fonts/HarmonyOS_Sans_Condensed_Italic.ttf
 fonts/HarmonyOS_Sans_Condensed.ttf
 fonts/HarmonyOS_Sans_Italic.ttf
 fonts/HarmonyOS_Sans.ttf
-fonts/RobotoFallback-VF.ttf
 EOF
 }
 
