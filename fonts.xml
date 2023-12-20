@@ -80,6 +80,7 @@
         </font>
     </family>
 
+
     <!-- Note that aliases must come after the fonts they reference. -->
     <alias name="sans-serif-thin" to="sans-serif" weight="100" />
     <alias name="sans-serif-light" to="sans-serif" weight="300" />
@@ -91,7 +92,7 @@
     <alias name="verdana" to="sans-serif" />
 
     <family name="sans-serif-condensed">
-        <font weight="100" style="normal">HarmonyOS_Sans_Condensed.ttf
+      <font weight="100" style="normal">HarmonyOS_Sans_Condensed.ttf
             <axis tag="wght" stylevalue="100" />
         </font>
         <font weight="100" style="italic">HarmonyOS_Sans_Condensed_Italic.ttf
@@ -178,13 +179,16 @@
     <alias name="courier new" to="serif-monospace" />
 
     <family name="casual">
-        <font weight="400" style="normal">ComingSoon.ttf</font>
+        <font weight="400" style="normal" postScriptName="ComingSoon-Regular">ComingSoon.ttf</font>
     </family>
 
     <family name="cursive">
-        <font weight="400" style="normal" postScriptName="DancingScript">DancingScript-Regular.ttf
-        </font>
-        <font weight="700" style="normal">DancingScript-Bold.ttf</font>
+      <font weight="400" style="normal">DancingScript-Regular.ttf
+        <axis tag="wght" stylevalue="400" />
+      </font>
+      <font weight="700" style="normal">DancingScript-Regular.ttf
+        <axis tag="wght" stylevalue="700" />
+      </font>
     </family>
 
     <family name="sans-serif-smallcaps">
