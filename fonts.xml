@@ -92,7 +92,7 @@
     <alias name="verdana" to="sans-serif" />
 
     <family name="sans-serif-condensed">
-      <font weight="100" style="normal">HarmonyOS_Sans_Condensed.ttf
+        <font weight="100" style="normal">HarmonyOS_Sans_Condensed.ttf
             <axis tag="wght" stylevalue="100" />
         </font>
         <font weight="100" style="italic">HarmonyOS_Sans_Condensed_Italic.ttf
